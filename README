@@ -1,3 +1,9 @@
 bunt
 
+usage:
+
 ./bunt <path> --html? --minify?
+
+example:
+
+./bunt src/example.js --html
